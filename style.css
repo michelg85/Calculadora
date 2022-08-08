@@ -68,19 +68,19 @@ input[type="text"]:hover{
 
 }
 .igual{
-background-color: #8c52ff;
+background-color: #a581ee;
 }
 .div{
-    background-color: #fcb707;
+    background-color: #f8ce64;
 }
 .mult{
-    background-color: #aad800;
+    background-color: #d6f078;
 }
 .sub{
-    background-color: #e75ebe;
+    background-color: #ee97d4;
 }
 .add{
-    background-color: #0cd0cd;
+    background-color: #84e6e4;
 
 }
 .igual:hover{
